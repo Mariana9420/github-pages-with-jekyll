@@ -1,5 +1,5 @@
 ---
-title: "Learn by doing
+title: "Learn by doing"
 ---
 date: 2020-06-12
 ---
